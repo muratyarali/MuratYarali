@@ -44,11 +44,11 @@
 
 [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:murat.yarali@outlook.com) 
 
-<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MURATYARALI&langs_count=10&theme=cobalt&layout=compact" alt="Muran" /></p> 
+<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MURATYARALI&langs_count=10&theme=cobalt&layout=compact" alt="Murat" /></p> 
 
 <br><br> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MURATYARALI&show_icons=true&theme=cobalt" alt="Muran" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MURATYARALI&show_icons=true&theme=cobalt" alt="Murat" /></p> 
 
 [ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DMURATYARALI)](https://github.com/MURATYARALI) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=MURATYARALI&label=Profile%20views&color=129e00&style=plastic" alt="Harun" /> </p>  
 
