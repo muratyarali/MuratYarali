@@ -40,9 +40,11 @@
 
   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/muratyarali/) 
 
-[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" background-color="white" alt="instagram" height="30" width="40" />](https://instagram.com/gurharun) 
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" background-color="white" alt="instagram" height="30" width="40" />](https://www.instagram.com/kureselsavasciturkiye/) 
 
-[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:murat.yarali@outlook.com) 
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:murat.yarali@outlook.com)
+
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1245px-Twitter-logo.svg.png" background-color="white" alt="twitter" height="30" width="40" />](https://twitter.com/KureselSavasci)
 
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MURATYARALI&langs_count=10&theme=cobalt&layout=compact" alt="Murat" /></p> 
 
