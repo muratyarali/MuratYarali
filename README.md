@@ -8,7 +8,7 @@
 
 ## <img alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D03AQEFLEVaNQWR3g/profile-displayphoto-shrink_800_800/0/1640680940041?e=1652918400&v=beta&t=D6Zst-3DBvZH7F3lHmpPZSa08nhePo6K8VK8mmJgU6Y" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://user-images.githubusercontent.com/96360040/159109581-3db59e5e-0c1d-4ddf-8cb0-58c58185f07c.png" >
 
-- 👋 Hi, I’m @Murat Yarali
+- 👋 Hi, I’m @Murat Yaralı
 - 👨‍🎓 I’m an Electric and Electronics Engineer
 - 👨‍🏫 I’m interested in IT, Automation and Electronic
 - 👀 I’m currently learning AWS and DevOps 
@@ -25,9 +25,9 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/Murat-gür-98190267/)
+  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/muratyarali/)
  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" background-color="white" alt="instagram" height="30" width="40" />](https://www.instagram.com/YaraliMurat/)
- [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:YaraliMurat@gmail.com)
+ [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" background-color="white" alt="e-mail" height="30" width="40" />](mailto:murat.yarali@outlook.com)
 
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratYarali&langs_count=10&theme=cobalt&layout=compact" alt="Murat" /></p>
 <br><br>
