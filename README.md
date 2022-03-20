@@ -8,7 +8,7 @@
 <h1 align="center">Hey there, I'm Murat <br> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <br>
 <img alt="Coding" width="900" height="300" src="https://www.comunicazionemulticreativa.it/images/slide/slide1.jpg" >
-<h3 align="center">Join to my DEVOPS Journey
+<h2 align="center">Join to my DEVOPS Journey
 <br>
 <br>
 [<img align="center" src="https://www.emojiall.com/tr/relations-chart/%F0%9F%93%A5.svg" background-color="white" alt="instagram" height="300" width="400" />] 
@@ -38,7 +38,7 @@
 <h5 align="left">We are NightFighters, Join us to NightFighterClub:</h5>
 <p align="left"> 
 
-  [<img align="center" src="https://media-exp1.licdn.com/dms/image/C5622AQGblApAyEwcyA/feedshare-shrink_800/0/1647354255932?e=1650499200&v=beta&t=7RLhpZIaintkKenpSjICLidCMHR5yNvTtRU4K7RGucI" color="white" alt="NightFighterClub" height="140" width="200" />](https://www.linkedin.com/groups/14059731/) 
+  [<img align="center" src="https://media-exp1.licdn.com/dms/image/C5622AQGblApAyEwcyA/feedshare-shrink_800/0/1647354255932?e=1650499200&v=beta&t=7RLhpZIaintkKenpSjICLidCMHR5yNvTtRU4K7RGucI" color="white" alt="NightFighterClub" height="200" width="350" />](https://www.linkedin.com/groups/14059731/) 
 
 ---------------
 
@@ -47,7 +47,7 @@
 
 [<img align="center" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif" background-color="white" alt="instagram" height="40" width="50" />](mailto:murat.yarali@outlook.com)   - 📫 murat.yarali@outlook.com  ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" background-color="white" alt="outlook mail" height="30" width="40" />](mailto:murat.yarali@outlook.com)
 
-[<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="web site" height="40" width="45" />](https://www.muratyarali.com)   - 💬 my site www.muratyarali.com   ✨   [<img align="center" src="https://media0.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" color="white" alt="linkedin" height="35" width="45" />](www.muratyarali.com)
+[<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="web site" height="40" width="45" />](https://www.muratyarali.com)   - 📫 www.muratyarali.com   ✨   [<img align="center" src="https://media0.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" color="white" alt="linkedin" height="35" width="45" />](www.muratyarali.com)
 
 [<img align="center" src="https://cdn.dribbble.com/users/759099/screenshots/3584436/linked_in2.gif" color="white" alt="linkedin" height="35" width="45" />](https://www.linkedin.com/in/muratyarali/)   - 📫 https://www.linkedin.com/in/muratyarali/   ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="35" width="45" />](https://www.linkedin.com/in/muratyarali/)
   
