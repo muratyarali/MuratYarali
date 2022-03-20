@@ -51,7 +51,9 @@
 
 [<img align="center" src="https://cdn.dribbble.com/users/759099/screenshots/3584436/linked_in2.gif" color="white" alt="linkedin" height="35" width="45" />](https://www.linkedin.com/in/muratyarali/)   - 📫 https://www.linkedin.com/in/muratyarali/   ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="35" width="45" />](https://www.linkedin.com/in/muratyarali/)
   
-[<img align="center" src="https://media0.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" color="white" alt="linkedin" height="35" width="45" />](https://www.instagram.com/kureselsavasciturkiye/)   - 📫 https://www.instagram.com/kureselsavasciturkiye/   ✨   [<img align="center" src="https://media0.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" color="white" alt="linkedin" height="35" width="45" />](https://www.instagram.com/kureselsavasciturkiye/)
+[<img align="center" src="https://media0.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" color="white" alt="linkedin" height="35" width="45" />](https://www.instagram.com/kureselsavasciturkiye/)   - 📫 https://www.instagram.com/kureselsavasciturkiye/   ✨
+
+[<img align="center" src="https://c.tenor.com/Bbaf7jFc3ZEAAAAi/twitter-png.gif" color="white" alt="linkedin" height="35" width="45" />](https://www.instagram.com/kureselsavasciturkiye/)   - 📫 https://www.instagram.com/kureselsavasciturkiye/   ✨
  
   
 ---------------
@@ -59,11 +61,10 @@
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratYarali&langs_count=10&theme=cobalt&layout=compact" alt="Murat" /></p>
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuratYarali&show_icons=true&theme=cobalt" alt="Murat" /></p>
- 
-  
+
 [ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DMuratYarali)](https://github.com/MuratYarali) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=MuratYarali&label=Profile%20views&color=129e00&style=plastic" alt="Murat" /> </p> 
 <hr> 
- <!---
+<!---
 MuratYarali/MuratYarali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
