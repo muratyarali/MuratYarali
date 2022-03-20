@@ -47,14 +47,15 @@
 
 [<img align="center" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif" background-color="white" alt="instagram" height="40" width="50" />](mailto:murat.yarali@outlook.com)   - 📫 murat.yarali@outlook.com  ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" background-color="white" alt="outlook mail" height="30" width="40" />](mailto:murat.yarali@outlook.com)
 
-[<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="web site" height="40" width="45" />](https://www.muratyarali.com)   - 💬 my site www.muratyarali.com   ✨
+[<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="web site" height="40" width="45" />](https://www.muratyarali.com)   - 💬 my site www.muratyarali.com   ✨   [<img align="center" src="https://media0.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" color="white" alt="linkedin" height="35" width="45" />](www.muratyarali.com)
 
 [<img align="center" src="https://cdn.dribbble.com/users/759099/screenshots/3584436/linked_in2.gif" color="white" alt="linkedin" height="35" width="45" />](https://www.linkedin.com/in/muratyarali/)   - 📫 https://www.linkedin.com/in/muratyarali/   ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="35" width="45" />](https://www.linkedin.com/in/muratyarali/)
   
-[<img align="center" src="https://media0.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" color="white" alt="linkedin" height="35" width="45" />](https://www.instagram.com/kureselsavasciturkiye/)   - 📫 https://www.instagram.com/kureselsavasciturkiye/   ✨
+[<img align="center" src="https://media0.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" color="white" alt="instagram" height="35" width="45" />](https://www.instagram.com/kureselsavasciturkiye/)   - 📫 https://www.instagram.com/kureselsavasciturkiye/   ✨   [<img align="center" src="https://media0.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" color="white" alt="instagram" height="35" width="45" />](https://www.instagram.com/kureselsavasciturkiye/)
 
-[<img align="center" src="https://c.tenor.com/Bbaf7jFc3ZEAAAAi/twitter-png.gif" color="white" alt="linkedin" height="35" width="45" />](https://www.instagram.com/kureselsavasciturkiye/)   - 📫 https://www.instagram.com/kureselsavasciturkiye/   ✨
- 
+[<img align="center" src="https://c.tenor.com/Bbaf7jFc3ZEAAAAi/twitter-png.gif" color="white" alt="twitter" height="35" width="45" />](https://twitter.com/KureselSavasci)   - 📫 https://twitter.com/KureselSavasci   ✨   [<img align="center" src="https://c.tenor.com/Bbaf7jFc3ZEAAAAi/twitter-png.gif" color="white" alt="twitter" height="35" width="45" />](https://twitter.com/KureselSavasci)
+
+[<img align="center" src="https://thumbs.gfycat.com/WanBoilingGavial-size_restricted.gif" color="white" alt="youtube" height="35" width="45" />](https://www.youtube.com/c/KüreselSavaşçıTürkiye)   - 📫 https://www.youtube.com/c/KüreselSavaşçıTürkiye   ✨   [<img align="center" src="https://thumbs.gfycat.com/WanBoilingGavial-size_restricted.gif" color="white" alt="youtube" height="35" width="45" />](https://www.youtube.com/c/KüreselSavaşçıTürkiye)
   
 ---------------
 
