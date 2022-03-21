@@ -10,7 +10,7 @@
 <img alt="Coding" width="900" height="300" src="https://www.comunicazionemulticreativa.it/images/slide/slide1.jpg" >
 <h2 align="center">Join my DEVOPS Journey
 
-<h3 align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHJzSPn6IXvpg/profile-displayphoto-shrink_800_800/0/1647845403810?e=2147483647&v=beta&t=6A7bakmz6aztJFaRi7yVjztQYzN21VucoTCKtuWLp9o" width="250">
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/93635779/159369919-0ee9237b-1400-4b96-a772-6937a5139289.png" width="300">
 
 -------------
 
