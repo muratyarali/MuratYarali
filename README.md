@@ -1,6 +1,6 @@
 # README
 
-![snake svg](https://github.com/Comp-Wolf/Comp-Wolf/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/MuratYarali/MuratYarali/blob/output/github-contribution-grid-snake.svg)
 
 -------------
 -------------
@@ -9,9 +9,8 @@
 <br>
 <img alt="Coding" width="900" height="300" src="https://www.comunicazionemulticreativa.it/images/slide/slide1.jpg" >
 <h2 align="center">Join to my DEVOPS Journey
-<br>
-<br>
-<a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
+
+ <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
 
  <h3 align="center"> <img src="https://user-images.githubusercontent.com/96360040/159213110-2fdaf4e9-4a7d-4d47-9fc2-80e08b528d57.gif" width="800">
 
