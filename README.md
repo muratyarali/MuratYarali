@@ -45,7 +45,7 @@
 
 ---------------
 
-<h1 align="left"> >Connect with Me>
+<h1 align="left"> >Connect with Me> </h1>
 <p align="left">
 
 [<img align="center" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif" background-color="white" alt="instagram" height="40" width="50" />](mailto:murat.yarali@outlook.com)   - 📫 murat.yarali@outlook.com  ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" background-color="white" alt="outlook mail" height="30" width="40" />](mailto:murat.yarali@outlook.com)
