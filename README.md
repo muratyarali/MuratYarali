@@ -48,7 +48,7 @@
 <h1 align="left"> >Connect with Me> </h1>
 <p align="left">
 
-[<img align="center" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif" background-color="white" alt="instagram" height="40" width="50" />](mailto:murat.yarali@outlook.com)   - 📫 murat.yarali@outlook.com  ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" background-color="white" alt="outlook mail" height="30" width="40" />](mailto:murat.yarali@outlook.com)
+[<img align="center" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif" background-color="white" alt="instagram" height="40" width="50" />](mailto:muratyarali777@gmail.com)   - 📫 muratyarali777@gmail.com  ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" background-color="white" alt="outlook mail" height="30" width="40" />](mailto:muratyarali777@gmail.com)
 
 [<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%87%BC.svg" background-color="white" alt="web site" height="40" width="45" />](https://www.muratyarali.com)   - 📫 www.muratyarali.com   ✨   [<img align="center" src="https://media0.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" color="white" alt="linkedin" height="35" width="45" />](www.muratyarali.com)
 
