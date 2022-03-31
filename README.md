@@ -19,7 +19,7 @@
 -------------
 
 - 👋 Hi, I’m @Murat Yaralı
-- 👨‍🎓 I’m an Electric-Electronics Engineer, Executive Manager-Leader and now AWS / DevOps Engineer
+- 👨‍🎓 I’m an Electric-Electronics Engineer, Executive Manager-Leader and now AWS DevOps Engineer
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
 
 <img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%92%BB.svg" background-color="white" alt="instagram" height="30" width="40" />   - 👀 I’m interested in IT
